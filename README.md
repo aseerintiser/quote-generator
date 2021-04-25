@@ -1,6 +1,6 @@
 # Quote Generator
 
-This is random quote generator project.
+This is a random quote generator project.
 
 In this project, I made an asynchronous fetch request to a REST API in order to get quotes.
 
